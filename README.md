@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there I'am Diogo Cortez 👋
 
+I work as junior php developer since January of 2020. It's my first job that I work as software developer :computer:  
+
+- 🌱 I’m currently learning the basics of AWS (Amazon Web Service), how to create a virtual machine, database storage, install applications and how the platform works in general (pricing, domain name system, security, storage). Besides that, I am studying CakePHP framework, OWASP top 10 and the best practices to write a clean code.
+
+- ⚡ Fun fact: Travel :earth_americas: and running :running: lover  
+
+- 📫 How to reach me: diogocortez@live.com
 <!--
 **diogo648/diogo648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
