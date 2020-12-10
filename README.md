@@ -4,7 +4,9 @@ I work as junior php developer since January of 2020. It's my first job that I w
 
 - 🌱 I’m currently learning the basics of AWS (Amazon Web Service), how to create a virtual machine, database storage, install applications and how the platform works in general (pricing, domain name system, security, storage). Besides that, I am studying CakePHP framework, OWASP top 10 and the best practices to write a clean code.
 
-- ⚡ Fun fact: Travel :earth_americas: and running :running: lover  
+- ⚡ Fun fact: In 2010, I was a foreign student in Tucson, Arizona :us: where I attended Amphitheater High School as a Junior. In this year, I learned English and more about the american culture.
+
+Travel :earth_americas: and running :running: lover  
 
 - 📫 How to reach me: diogocortez@live.com
 <!--
